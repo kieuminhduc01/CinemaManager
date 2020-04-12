@@ -1,0 +1,22 @@
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.Controller.quanLyHang.resources
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.Properties.Resources.resources
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\bin\Debug\quanLyRap.exe.config
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\bin\Debug\quanLyRap.exe
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\bin\Debug\quanLyRap.pdb
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.exe
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.pdb
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\bin\Debug\quanLyRap.exe.config
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\bin\Debug\quanLyRap.exe
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\bin\Debug\quanLyRap.pdb
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.Controller.quanLyHang.resources
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.Properties.Resources.resources
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.exe
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.pdb
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\bin\Debug\level1ManagerCinemas.exe
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\bin\Debug\level1ManagerCinemas.pdb
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\bin\Debug\level1ManagerCinemas.exe.config
+C:\Users\admin\Desktop\thietKeProject\hightLevelManagement\quanLyRap\obj\Debug\quanLyRap.csproj.CopyComplete

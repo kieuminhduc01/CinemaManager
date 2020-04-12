@@ -1,0 +1,41 @@
+/* CSS Document */
+#left {
+    width: 200px;
+    min-height: 600px;
+    border: 1px solid #CDCDCD;
+    float: left;
+    background-color: #AF206F;
+    color: white;
+    margin-bottom: 5px;
+}#right{
+     width: 334px;
+     min-height: 600px;
+     border: 1px solid #CDCDCD;
+     float:right;
+     margin-bottom: 5px;
+}
+#content{
+     width:500px;
+     min-height: 600px;
+     border: 1px solid #CDCDCD;
+     float:left;
+     margin-left: 5px;
+     margin-right: 5px;
+     margin-bottom: 5px;
+}
+#qrcode{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#main{
+  position: absolute;
+  right: 100px;
+  width: 1000px;
+    
+}
+#head{
+    right: 0px;
+   
+}
+

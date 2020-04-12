@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\QuayBan\bin\Debug\QuayBan.exe.config
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\QuayBan\bin\Debug\QuayBan.exe
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\QuayBan\bin\Debug\QuayBan.pdb
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\QuayBan\obj\Debug\QuayBan.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\QuayBan\obj\Debug\QuayBan.Properties.Resources.resources
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\QuayBan\obj\Debug\QuayBan.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\QuayBan\obj\Debug\QuayBan.exe
+C:\Users\admin\Desktop\thiết kế project\hightLevelManagement\QuayBan\obj\Debug\QuayBan.pdb

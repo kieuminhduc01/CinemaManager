@@ -1,0 +1,29 @@
+/* CSS Document */
+#left {
+    width: 700px;
+    min-height: 600px;
+    /*    border: 1px solid #CDCDCD;*/
+    float: left;
+    color: #178CDD;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+#main {
+    position: absolute;
+    right: 100px;
+    width: 1000px;
+}
+#right {
+    width: 300px;
+    min-height: 750px;
+    /*     border: 1px solid #CDCDCD;*/
+    color: #17CB39;
+    font-weight: 700;
+    float: right;
+    margin-bottom: 5px;
+}
+.qrcodeAndLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
