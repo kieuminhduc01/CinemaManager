@@ -113,7 +113,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td></td>
+                                    <td></td> 
                                     <td>
                                         <asp:ImageButton ID="btnLogin" runat="server" ImageUrl="\images\loginbutton.png" OnClick="ImageButton1_Click" />LOGIN</td>
                                 </tr>
@@ -133,7 +133,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Họ Và Tên:</td>
+                                    <td>Họ Và Tên:Duy sau:</td>
                                     <td>
                                         <asp:TextBox ID="txtName" runat="server" type="text"></asp:TextBox>
                                     </td>
