@@ -127,7 +127,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Password:</td>
+                                    <td>Password:ddd</td>
                                     <td>
                                         <asp:TextBox ID="txtPasswordSign" runat="server" type="password"></asp:TextBox>
                                     </td>
